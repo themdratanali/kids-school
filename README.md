@@ -1,7 +1,7 @@
 # Responsiveness kids school website
 
-<h2>Desktop</h2>
-<p><img src="desktopdevice.png" alt="Desktop Device" width="600"></p>
+<h3>Desktop</h3>
+<p><img src="desktop.png" alt="Desktop Device" width="500"></p>
 
-<h2>Mobile</h2>
-<p><img src="mobiledevice.png" alt="Mobile Device" width="600"></p>
+<h3>Mobile</h3>
+<p><img src="mobile.png" alt="Mobile Device" width="500"></p>
